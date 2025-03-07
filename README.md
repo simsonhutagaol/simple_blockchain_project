@@ -64,3 +64,13 @@ Saldo Bob: 105
 Saldo Charlie: 105
 Block 0 [Hash: 0000a3b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5, Previous Hash: 0, Data: ['Genesis Block']]
 Block 1 [Hash: 0000a3b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5, Previous Hash: 0000a3b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5, Data: [<transaction.Transaction object at 0x7f8b8c0b0d30>, <transaction.Transaction object at 0x7f8b8c0b0d60>]]
+
+
+# Next Steps:
+- Network: Simulasikan jaringan blockchain dengan beberapa node yang saling berkomunikasi.
+
+- Consensus: Implementasikan mekanisme konsensus seperti Proof of Stake (PoS).
+
+- Database: Simpan blockchain di database seperti SQLite atau MongoDB.
+
+- Frontend: Buat antarmuka pengguna menggunakan Flask atau Django.

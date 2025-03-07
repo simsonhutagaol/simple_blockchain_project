@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+env/
+
+# Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Secret & Config
+.env
+config.json
+secrets.json
+
+# Logs
+*.log
+
+# Editor & OS
+.DS_Store
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
